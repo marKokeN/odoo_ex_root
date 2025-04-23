@@ -1,9 +1,0 @@
-<odoo>
-    <menuitem id="todo_main_menu" name="Todo" sequence="10"/>
-    
-    <menuitem id="menu_todo_list"
-              name="Todo List"
-              parent="todo_main_menu"
-              action="action_todo_list"
-              sequence="1"/>
-</odoo>
